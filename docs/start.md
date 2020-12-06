@@ -12,7 +12,7 @@ There are a few setup steps you need to complete before you can use this library
 
 ## Authentication and authorization
 
-It is important to understand the basics of how API authentication and authorization are handled. All API calls must use either simple or authorized access (defined below). Many API methods require authorized access, but some can use either. Some API methods that can use either behave differently, depending on whether you use simple or authorized access. See the API's method documentation to determine the appropriate access type.
+It is important to understand the basics of how API authentication and authorization are handled. All API calls must use either simple or authorized access (defined below). Many API methods require authorized access, but some can use either. Some API methods can use either behave differently, depending on whether you use simple or authorized access. See the API's method documentation to determine the appropriate access type.
 
 ### 1. Simple API access (API keys)
 
